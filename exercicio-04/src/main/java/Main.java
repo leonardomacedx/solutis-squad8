@@ -24,6 +24,7 @@ public class Main {
         System.out.println(gato.quantidadeComida);
         System.out.println(leao.quantidadePercorrida);
         System.out.println(elefante.quantidadeDormida);
+
     }
 
 }
