@@ -1,6 +1,6 @@
-package main.java.animais;
+package main.java.exercicio04_OOavancado.animais;
 
-import main.java.classabs.AnimalVoadorAB;
+import main.java.exercicio04_OOavancado.classabs.AnimalVoadorAB;
 
 public class Pombo extends AnimalVoadorAB {
 

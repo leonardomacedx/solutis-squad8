@@ -1,4 +1,4 @@
-package main.java.interfaces;
+package main.java.exercicio04_OOavancado.interfaces;
 
 public interface AnimalIF {
 

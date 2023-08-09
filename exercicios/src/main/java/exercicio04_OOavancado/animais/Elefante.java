@@ -1,6 +1,6 @@
-package main.java.animais;
+package main.java.exercicio04_OOavancado.animais;
 
-import main.java.classabs.AnimalTerrestreAB;
+import main.java.exercicio04_OOavancado.classabs.AnimalTerrestreAB;
 
 public class Elefante extends AnimalTerrestreAB {
 

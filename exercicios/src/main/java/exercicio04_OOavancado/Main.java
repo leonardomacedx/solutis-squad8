@@ -1,6 +1,6 @@
-package main.java;
+package main.java.exercicio04_OOavancado;
 
-import main.java.animais.*;
+import main.java.exercicio04_OOavancado.animais.*;
 
 public class Main {
     public static void main(String[] args) {
