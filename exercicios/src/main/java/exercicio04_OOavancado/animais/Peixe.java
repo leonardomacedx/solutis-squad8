@@ -1,6 +1,6 @@
-package main.java.animais;
+package main.java.exercicio04_OOavancado.animais;
 
-import main.java.classabs.AnimalMarinhoAB;
+import main.java.exercicio04_OOavancado.classabs.AnimalMarinhoAB;
 
 public class Peixe extends AnimalMarinhoAB {
 

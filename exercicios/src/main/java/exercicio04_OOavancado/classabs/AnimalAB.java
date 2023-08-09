@@ -1,6 +1,6 @@
-package main.java.classabs;
+package main.java.exercicio04_OOavancado.classabs;
 
-import main.java.interfaces.AnimalIF;
+import main.java.exercicio04_OOavancado.interfaces.AnimalIF;
 
 public abstract class AnimalAB implements AnimalIF {
 
